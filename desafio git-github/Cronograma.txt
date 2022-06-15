@@ -1,0 +1,65 @@
+# Cronograma de Estudos Curso de Introdução ao Git e GitHub
+
+Entre no site da [DIO](https://www.dio.me/) , crie seu cadastro e faça este e muitos outros cursos.
+
+## Segunda :  Introdução ao Git
+
+* _Entendendo o que é o Git e sua importância_ 
+
+* _Conclusão da aula_ 
+
+  
+
+## Terça : Navegação via command line, Interface e Instalação
+
+* _Comandos básicos para um bom desempenho no terminal_ 
+
+* _Realizando a instalação do Git_ 
+
+* _Conclusão da aula_
+
+  
+
+ [Link para download do Git](https://git-scm.com/downloads)
+
+## Quarta : Entendendo como o Git funciona por baixo dos panos
+
+* _Tópicos fundamentais para entender o funcionamento do Git_
+
+* _Objetos internos do Git_
+
+* _Chave SSH e Token_
+
+* _Conclusão da aula_
+
+  
+
+## Quinta : Primeiros comandos com Git
+
+* _Iniciando o Git e criando um commit_  
+* Conclusão da aula
+
+
+
+## Sexta : Ciclo de vida dos arquivos no Git
+
+* _Passo a passo no ciclo de vida_ 
+* Conclusão da aula
+
+
+
+## Sábado : Introdução ao GitHub
+
+* _Trabalhando com o GitHub_
+
+* _Conclusão da aula_
+
+  ##  Resolvendo Conflitos : 
+
+* _Como os conflitos acontecem no GitHub e como resolvê-los_ 
+
+* _Certificação do Conhecimento_ 
+
+
+
+## Domingo :  LAZER
